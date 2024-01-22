@@ -16,4 +16,4 @@
 
 ## Credits
 
-Huge thanks to <a href="https://youtu.be/oHSesteFK5c?si=G4PtNNJ7u-SHlIU5"> Tech Raj </a> Extension.
+Huge thanks to <a href="https://youtu.be/oHSesteFK5c?si=G4PtNNJ7u-SHlIU5"> Tech Raj </a>.
