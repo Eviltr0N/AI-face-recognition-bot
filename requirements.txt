@@ -1,0 +1,4 @@
+boto3==1.26.118
+Pillow==9.5.0
+python-telegram-bot==20.2
+matplotlib==3.7.1
